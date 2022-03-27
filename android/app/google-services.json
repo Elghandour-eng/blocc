@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "714652761034",
+    "project_id": "rest-3f8fe",
+    "storage_bucket": "rest-3f8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714652761034:android:0ae25dcfc545627f14ed33",
+        "android_client_info": {
+          "package_name": "com.abdelwahabelghandour.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuHOwE82uL0OwR8pgce8gq-llRS0mrYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714652761034:android:a31dd633af7c71be14ed33",
+        "android_client_info": {
+          "package_name": "com.abdelwahabelghandour.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuHOwE82uL0OwR8pgce8gq-llRS0mrYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714652761034:android:c20f84f21f0bb7a714ed33",
+        "android_client_info": {
+          "package_name": "com.abdelwahabelghandour.wordpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuHOwE82uL0OwR8pgce8gq-llRS0mrYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714652761034-v75aumrbsllksfq2rfk9mh7guco712qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
