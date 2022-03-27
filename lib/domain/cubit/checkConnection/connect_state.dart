@@ -1,16 +1,7 @@
-abstract class CheckConnectionState
-{
+abstract class CheckConnectionState {}
 
-}
-class LoadingConnection extends CheckConnectionState
-{
+class LoadingConnection extends CheckConnectionState {}
 
-}
-class Connect extends CheckConnectionState
-{
+class Connect extends CheckConnectionState {}
 
-}
-class DisConnect extends CheckConnectionState
-{
-
-}
+class DisConnect extends CheckConnectionState {}

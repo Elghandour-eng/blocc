@@ -1,3 +1,3 @@
-const splashPath='/';
-const introPath= '/intro';
-const signInPath='/signIn';
+const splashPath = '/';
+const introPath = '/intro';
+const signInPath = '/signIn';
